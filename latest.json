@@ -1,0 +1,17 @@
+{
+  "version": "1.19.0",
+  "published_at": "2026-10-07T23:57:30Z",
+  "notes": "- **Funcionar siempre** (Ajustes → General, en Windows): para que LabelBridge imprima aunque nadie esté usando la PC. Cada pieza se activa con un botón y se confirma antes:\n  - **No suspenderse enchufada:** con corriente, la PC no se suspende ni hiberna y cerrar la tapa no la apaga (la pantalla sí se apaga).\n  - **Despertarse si la suspenden:** si alguien la suspende a mano, se despierta sola cada 10 minutos y sigue imprimiendo.\n  - **Imprimir sin sesión iniciada:** al encender la PC, o con la sesión cerrada, LabelBridge trabaja en segundo plano con tu cuenta (Windows te pide una vez tu contraseña, en su propia ventana de seguridad; la guarda Windows, no LabelBridge). Cuando inicias sesión, la ventana toma el relevo sin imprimir nada dos veces.\n- Con la pantalla bloqueada ya imprimía; con la PC apagada nada puede imprimir.",
+  "notes_en": "- **Always on** (Settings → General, on Windows): so LabelBridge prints even when nobody is using the PC. Each piece is turned on with a button and confirmed first:\n  - **Don't sleep when plugged in:** when plugged in, the PC won't sleep or hibernate and closing the lid won't turn it off (the screen still turns off).\n  - **Wake up if put to sleep:** if someone puts it to sleep, it wakes up by itself every 10 minutes and keeps printing.\n  - **Print without anyone signed in:** when the PC starts, or when signed out, LabelBridge works in the background with your account (Windows asks once for your password, in its own security window; Windows keeps it, not LabelBridge). When you sign in, the window takes over without printing anything twice.\n- With the screen locked it already printed; with the PC turned off nothing can print.",
+  "page_url": "https://morghullis.github.io/labelbridge-updates/",
+  "installer": {
+    "url": "https://morghullis.github.io/labelbridge-updates/LabelBridge-Setup-1.19.0.exe",
+    "size": 54839624,
+    "sha256": "70993a5bc0472674b65aadbf1a50940137a268c505cad6282650821796f41868"
+  },
+  "installer_mac": {
+    "url": "https://morghullis.github.io/labelbridge-updates/LabelBridge-1.19.0-mac.dmg",
+    "size": 67925613,
+    "sha256": "af393d40ebe619c98ea75d0accf8689e28781caa8e23f1ffeba8de47ceb7e0ad"
+  }
+}
