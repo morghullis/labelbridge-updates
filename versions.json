@@ -1,0 +1,78 @@
+[
+  {
+    "version": "1.21.0",
+    "published_at": "2026-10-12T01:10:46Z",
+    "size": 55131159,
+    "sha256": "962dc316d7a5209cf2ab1a3a44f1e1274e1a0f9da99c48b936ebaa41f66048c3",
+    "url": "https://morghullis.github.io/labelbridge-updates/LabelBridge-Setup-1.21.0.exe",
+    "mac": {
+      "url": "https://morghullis.github.io/labelbridge-updates/LabelBridge-1.21.0-mac.dmg",
+      "size": 67975574,
+      "sha256": "8237da96f03c52f3fa2a662897b9e1019fdd4933e67bb3cd3a37b1553a44079d"
+    }
+  },
+  {
+    "version": "1.20.0",
+    "published_at": "2026-10-10T22:21:16Z",
+    "size": 55014934,
+    "sha256": "630a57880fc09e2501fad1bd6061dc63935310d3166a81b37ac3f05d3647b036",
+    "url": "https://morghullis.github.io/labelbridge-updates/LabelBridge-Setup-1.20.0.exe",
+    "mac": {
+      "url": "https://morghullis.github.io/labelbridge-updates/LabelBridge-1.20.0-mac.dmg",
+      "size": 68201663,
+      "sha256": "2cf834e7e85b3772645d4ec593009f3ab442f173bfdc0e88ddde34c627440d04"
+    }
+  },
+  {
+    "version": "1.19.0",
+    "published_at": "2026-10-07T23:54:05Z",
+    "size": 54839624,
+    "sha256": "70993a5bc0472674b65aadbf1a50940137a268c505cad6282650821796f41868",
+    "url": "https://morghullis.github.io/labelbridge-updates/LabelBridge-Setup-1.19.0.exe",
+    "mac": {
+      "url": "https://morghullis.github.io/labelbridge-updates/LabelBridge-1.19.0-mac.dmg",
+      "size": 67925613,
+      "sha256": "af393d40ebe619c98ea75d0accf8689e28781caa8e23f1ffeba8de47ceb7e0ad"
+    }
+  },
+  {
+    "version": "1.18.0",
+    "published_at": "2026-10-07T16:13:10Z",
+    "size": 52101543,
+    "sha256": "0ebd4459af1d8a98819f5067e432ac72e72899b30f83ab047ad8d9a13a91e722",
+    "url": "https://morghullis.github.io/labelbridge-updates/LabelBridge-Setup-1.18.0.exe",
+    "mac": {
+      "url": "https://morghullis.github.io/labelbridge-updates/LabelBridge-1.18.0-mac.dmg",
+      "size": 67172819,
+      "sha256": "c7873f5bb979673506eba024f6ba98bd6f980da84a426cfbdfb2800a9546062c"
+    }
+  },
+  {
+    "version": "1.17.0",
+    "published_at": "2026-10-07T03:56:55Z",
+    "size": 51316223,
+    "sha256": "ce497c7df937d41ffaabad032e335faaf6ffb2c3aa57a72b9eb5c06532dbcd89",
+    "url": "https://morghullis.github.io/labelbridge-updates/LabelBridge-Setup-1.17.0.exe"
+  },
+  {
+    "version": "1.16.0",
+    "published_at": "2026-10-07T03:03:48Z",
+    "size": 51156815,
+    "sha256": "10aae9d8dcbb6d20742b8ab8cef832b2b519b848c4fdbd991b9e4ff138e84886",
+    "url": "https://morghullis.github.io/labelbridge-updates/LabelBridge-Setup-1.16.0.exe"
+  },
+  {
+    "version": "1.15.0",
+    "published_at": "2026-10-07T01:19:07Z",
+    "size": 49130192,
+    "sha256": "bac857e077e2b133aa22447f675b408d31a9a82cf711e8084fa982d9ec69ca65",
+    "url": "https://morghullis.github.io/labelbridge-updates/LabelBridge-Setup-1.15.0.exe"
+  },
+  {
+    "version": "1.14.0",
+    "published_at": "2026-10-06T12:45:54Z",
+    "size": 49077368,
+    "sha256": "19d2688cdcb4f09723ec57ecea794cac0be8b704ff05cc15f9d04e5f19640b61",
+    "url": "https://morghullis.github.io/labelbridge-updates/LabelBridge-Setup-1.14.0.exe"
+  }
+]

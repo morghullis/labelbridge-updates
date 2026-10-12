@@ -1,0 +1,17 @@
+{
+  "version": "1.21.0",
+  "published_at": "2026-10-12T01:10:46Z",
+  "notes": "- **Asistente de inicio para quien recién instala LabelBridge.** La primera vez pregunta qué quieres que haga (comprar e imprimir guías de Shopify, solo imprimir los pedidos o imprimir lo que mande n8n o tu web) y muestra solo los pasos que hacen falta: las impresoras (detecta las instaladas y propone cuál es de etiquetas y cuál de hojas, con «Imprimir prueba»), la tienda («Conectar y probar»), qué hacer con cada pedido y que trabaje solo. Al terminar, **«Seguir con el asistente»** deja que la IA configure lo demás contigo, poco a poco. Se vuelve a abrir desde la **Guía**.\n- **Página del pedido, como «Imprimir página de pedido» de Shopify.** Con cada pedido nuevo pagado sale una hoja carta con el pedido y su estado, el cliente, cómo se entrega (envío o **retiro en tienda** y dónde), los productos con su **foto** y su precio, los totales, lo pagado y las notas, más un código de barras del pedido.\n- **También con los pedidos que no llevan guía**, como los de retiro en tienda: no se compra guía (no hace falta), pero su página sí se imprime.\n- **Sale por la impresora que elijas** en Shopify → **Por dónde sale cada cosa** (si ya tenías una para la etiqueta del pedido, usa esa). Nunca por la de las guías, y nunca a ciegas por la predeterminada: si falta elegirla, LabelBridge te lo avisa.\n- Otra copia cuando quieras: clic derecho en un pedido → **Imprimir página del pedido**. Se apaga en Shopify → **Página del pedido**.",
+  "notes_en": "- **Quick setup for people who just installed LabelBridge.** The first time, it asks what you want it to do (buy and print Shopify labels, just print the orders, or print what n8n or your website sends) and shows only the steps you need: the printers (it finds the installed ones and suggests which is for labels and which for sheets, with “Print test”), the store (“Connect and test”), what to do with each order and keeping it working by itself. At the end, **“Continue with the assistant”** lets the AI set up the rest with you, bit by bit. Open it again from the **Guide**.\n- **Order page, like Shopify's \"Print order page\".** Every new paid order prints a letter-size sheet with the order and its status, the customer, how it's delivered (shipping or **in-store pickup** and where), the products with their **photo** and price, the totals, what was paid and the notes, plus an order barcode.\n- **Also for orders without a shipping label**, like in-store pickups: no label is bought (none is needed), but their page still prints.\n- **It prints on the printer you choose** in Shopify → **Where each document prints** (if you already had one for the order label, it uses that one). Never on the shipping-label printer, and never blindly on the default one: if one still needs to be chosen, LabelBridge tells you.\n- Another copy whenever you want: right-click an order → **Print order page**. Turn it off in Shopify → **Order page**.",
+  "page_url": "https://morghullis.github.io/labelbridge-updates/",
+  "installer": {
+    "url": "https://morghullis.github.io/labelbridge-updates/LabelBridge-Setup-1.21.0.exe",
+    "size": 55131159,
+    "sha256": "962dc316d7a5209cf2ab1a3a44f1e1274e1a0f9da99c48b936ebaa41f66048c3"
+  },
+  "installer_mac": {
+    "url": "https://morghullis.github.io/labelbridge-updates/LabelBridge-1.21.0-mac.dmg",
+    "size": 67975574,
+    "sha256": "8237da96f03c52f3fa2a662897b9e1019fdd4933e67bb3cd3a37b1553a44079d"
+  }
+}
